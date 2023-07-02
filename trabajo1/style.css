@@ -1,0 +1,15 @@
+#Titulo{
+    color:darkcyan;
+    font-size: 45px;
+    font-family: fantasy;
+    
+}
+.dividor{
+    background-color:dimgray;
+    border: 1px solid black ;
+    padding: 5px;
+}
+#parrafo{
+    color:white;
+    font-family: cursive;
+}
