@@ -1,1 +1,2 @@
-# TrabajoPractico
+Matias Gomez
+Walter Trentacosta
